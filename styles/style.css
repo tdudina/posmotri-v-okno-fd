@@ -196,7 +196,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::after {
 
 .preloader {
   z-index: 1;
-  position: absolute;
+  position: relative;
 }
 
 .content__list-item {
